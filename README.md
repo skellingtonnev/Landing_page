@@ -1,1 +1,1 @@
-# Landing_page
+Odin project landing page exercise
